@@ -4,3 +4,5 @@ app_client.session-journal
 .env
 draft.py
 __pycache__
+build/
+dist/
