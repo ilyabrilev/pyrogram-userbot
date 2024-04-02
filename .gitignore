@@ -1,0 +1,6 @@
+app_client.session
+app_client.session-journal
+.venv/
+.env
+draft.py
+__pycache__
